@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-com.alibaba.com.alibaba.nacos.console.paramcheck.ConsoleDefaultHttpParamExtractor
+com.alibaba.nacos.console.paramcheck.ConsoleDefaultHttpParamExtractor

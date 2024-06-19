@@ -16,6 +16,7 @@
         <module>cloud-common-alibaba-bom</module>
         <module>cloud-common-bom</module>
         <module>cloud-common-web</module>
+        <module>cloud-common-nacos</module>
     </modules>
 
 </project>
