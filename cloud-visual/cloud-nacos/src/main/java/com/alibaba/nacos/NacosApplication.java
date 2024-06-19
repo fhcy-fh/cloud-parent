@@ -42,7 +42,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
     @Filter(type = FilterType.CUSTOM, classes = {AutoConfigurationExcludeFilter.class})})
 @ServletComponentScan
 @EnableScheduling
-public class Nacos {
+public class NacosApplication {
 
     public static void main(String[] args) {
         // true 单机模式 false 为集群模式 集群模式需搭配 cluster.conf 使用 使用方法请查看文档
@@ -51,7 +51,7 @@ public class Nacos {
         // 本地集群搭建使用 分别在所有 nacos 目录下创建 conf/cluster.conf 文件用于编写集群ip端口
         // 注意 如果本地启动多个 nacos 此目录不能相同 例如 nacos1 nacos2 nacos3 对应三个nacos服务
         // System.setProperty("nacos.home", "D:/nacos");
-        SpringApplication.run(Nacos.class, args);
+        SpringApplication.run(NacosApplication.class, args);
     }
 }
 
