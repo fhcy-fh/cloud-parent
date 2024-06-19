@@ -123,13 +123,13 @@
             </dependency>
 
             <!-- SpringCloud Alibaba 微服务 -->
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-alibaba-bom</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--                <type>pom</type>-->
-<!--                <scope>import</scope>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-alibaba-bom</artifactId>
+                <version>${revision}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
 
             <!-- SpringBoot 依赖配置 -->
             <dependency>

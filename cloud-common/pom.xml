@@ -15,6 +15,7 @@
         <module>cloud-common-core</module>
         <module>cloud-common-alibaba-bom</module>
         <module>cloud-common-bom</module>
+        <module>cloud-common-web</module>
     </modules>
 
 </project>
