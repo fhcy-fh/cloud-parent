@@ -11,5 +11,8 @@
 
     <artifactId>cloud-common</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>cloud-common-core</module>
+    </modules>
 
 </project>
