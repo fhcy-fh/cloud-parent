@@ -16,6 +16,7 @@
 <!--        <module>cloud-common</module>-->
 <!--        <module>cloud-visual</module>-->
         <module>cloud-visual</module>
+        <module>cloud-common</module>
     </modules>
 
     <properties>
