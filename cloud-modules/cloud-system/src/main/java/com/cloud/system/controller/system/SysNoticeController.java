@@ -1,10 +1,7 @@
 package com.cloud.system.controller.system;
 
 import cn.dev33.satoken.annotation.SaCheckPermission;
-import lombok.RequiredArgsConstructor;
-import org.apache.dubbo.config.annotation.DubboReference;
 import com.cloud.common.core.domain.R;
-import com.cloud.common.core.service.DictService;
 import com.cloud.common.log.annotation.Log;
 import com.cloud.common.log.enums.BusinessType;
 import com.cloud.common.mybatis.core.page.PageQuery;
@@ -14,6 +11,8 @@ import com.cloud.resource.api.RemoteMessageService;
 import com.cloud.system.domain.bo.SysNoticeBo;
 import com.cloud.system.domain.vo.SysNoticeVo;
 import com.cloud.system.service.ISysNoticeService;
+import lombok.RequiredArgsConstructor;
+import org.apache.dubbo.config.annotation.DubboReference;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
@@ -29,7 +28,7 @@ import org.springframework.web.bind.annotation.*;
 public class SysNoticeController extends BaseController {
 
     private final ISysNoticeService noticeService;
-    private final DictService dictService;
+//    private final DictService dictService;
 
     @DubboReference
     private final RemoteMessageService remoteMessageService;
@@ -65,8 +64,8 @@ public class SysNoticeController extends BaseController {
         if (rows <= 0) {
             return R.fail();
         }
-        String type = dictService.getDictLabel("sys_notice_type", notice.getNoticeType());
-        remoteMessageService.publishAll("[" + type + "] " + notice.getNoticeTitle());
+//        String type = dictService.getDictLabel("sys_notice_type", notice.getNoticeType());
+        remoteMessageService.publishAll("[" + "type" + "] " + notice.getNoticeTitle());
         return R.ok();
     }
 
