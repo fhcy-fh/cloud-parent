@@ -20,7 +20,7 @@ import java.lang.annotation.*;
 public @interface Translation {
 
     /**
-     * 类型 (需与实现类上的 {@link org.dromara.common.translation.annotation.TranslationType} 注解type对应)
+     * 类型 (需与实现类上的 {@link com.cloud.common.translation.annotation.TranslationType} 注解type对应)
      * <p>
      * 默认取当前字段的值 如果设置了 @{@link Translation#mapper()} 则取映射字段的值
      */

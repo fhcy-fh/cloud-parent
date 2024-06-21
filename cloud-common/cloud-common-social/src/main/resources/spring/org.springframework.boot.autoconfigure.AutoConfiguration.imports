@@ -1,1 +1,2 @@
-org.dromara.common.social.config.SocialAutoConfiguration
+com.cloud.common.social.config.SocialAutoConfiguration
+com.cloud.common.social.config.properties.SocialProperties
