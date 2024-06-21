@@ -1,1 +1,0 @@
-dubboRequestFilter=com.cloud.common.dubbo.filter.DubboRequestFilter

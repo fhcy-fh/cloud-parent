@@ -1,6 +1,0 @@
-com.cloud.common.translation.config.TranslationConfig
-com.cloud.common.translation.core.impl.DeptNameTranslationImpl
-com.cloud.common.translation.core.impl.DictTypeTranslationImpl
-com.cloud.common.translation.core.impl.OssUrlTranslationImpl
-com.cloud.common.translation.core.impl.UserNameTranslationImpl
-com.cloud.common.translation.core.impl.NicknameTranslationImpl

@@ -1,5 +1,0 @@
-com.cloud.common.core.utils.SpringUtils
-com.cloud.common.core.config.ApplicationConfig
-com.cloud.common.core.config.ValidatorConfig
-com.cloud.common.core.config.ThreadPoolConfig
-com.cloud.common.core.config.AsyncConfig
