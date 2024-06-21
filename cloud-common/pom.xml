@@ -21,6 +21,9 @@
         <module>cloud-common-redis</module>
         <module>cloud-common-excel</module>
         <module>cloud-common-satoken</module>
+        <module>cloud-common-tenant</module>
+        <module>cloud-common-mybatis</module>
+        <module>cloud-common-dubbo</module>
     </modules>
 
 </project>

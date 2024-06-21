@@ -78,11 +78,11 @@
             </dependency>
 
 <!--            &lt;!&ndash; 数据库服务 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-mybatis</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-mybatis</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            <dependency>-->
 <!--                <groupId>com.cloud</groupId>-->
@@ -90,11 +90,11 @@
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-dubbo</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-dubbo</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            <dependency>-->
 <!--                <groupId>com.cloud</groupId>-->
@@ -195,12 +195,12 @@
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
-<!--            &lt;!&ndash; 租户模块 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-tenant</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <!-- 租户模块 -->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-tenant</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            <dependency>-->
 <!--                <groupId>com.cloud</groupId>-->
