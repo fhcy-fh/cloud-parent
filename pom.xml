@@ -17,6 +17,7 @@
 <!--        <module>cloud-visual</module>-->
         <module>cloud-visual</module>
         <module>cloud-common</module>
+        <module>cloud-api</module>
     </modules>
 
     <properties>
