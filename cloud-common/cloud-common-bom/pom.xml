@@ -121,11 +121,11 @@
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-idempotent</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-idempotent</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            <dependency>-->
 <!--                <groupId>com.cloud</groupId>-->
