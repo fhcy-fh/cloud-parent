@@ -1,1 +1,1 @@
-org.dromara.common.idempotent.config.IdempotentAutoConfiguration
+com.cloud.common.idempotent.config.IdempotentAutoConfiguration

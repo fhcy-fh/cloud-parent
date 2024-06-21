@@ -35,7 +35,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import jakarta.annotation.PostConstruct;
 import com.cloud.common.core.utils.StreamUtils;
-import org.dromara.common.sentinel.config.properties.SentinelCustomProperties;
+import com.cloud.common.sentinel.config.properties.SentinelCustomProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;

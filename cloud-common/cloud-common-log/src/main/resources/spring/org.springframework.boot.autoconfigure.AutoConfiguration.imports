@@ -1,2 +1,2 @@
-org.dromara.common.log.event.LogEventListener
-org.dromara.common.log.aspect.LogAspect
+com.cloud.common.log.event.LogEventListener
+com.cloud.common.log.aspect.LogAspect
