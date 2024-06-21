@@ -151,11 +151,11 @@
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-sentinel</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-sentinel</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            <dependency>-->
 <!--                <groupId>com.cloud</groupId>-->

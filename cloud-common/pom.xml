@@ -25,6 +25,7 @@
         <module>cloud-common-mybatis</module>
         <module>cloud-common-dubbo</module>
         <module>cloud-common-log</module>
+        <module>cloud-common-sentinel</module>
     </modules>
 
 </project>
