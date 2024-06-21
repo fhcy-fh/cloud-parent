@@ -10,4 +10,19 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>cloud-api-system</artifactId>
+
+    <dependencies>
+
+        <!-- RuoYi Common Core-->
+        <dependency>
+            <groupId>com.cloud</groupId>
+            <artifactId>cloud-common-core</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.cloud</groupId>
+            <artifactId>cloud-common-excel</artifactId>
+        </dependency>
+
+    </dependencies>
 </project>

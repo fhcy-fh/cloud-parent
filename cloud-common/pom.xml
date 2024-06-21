@@ -20,6 +20,7 @@
         <module>cloud-common-json</module>
         <module>cloud-common-redis</module>
         <module>cloud-common-excel</module>
+        <module>cloud-common-satoken</module>
     </modules>
 
 </project>

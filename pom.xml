@@ -11,10 +11,6 @@
     <packaging>pom</packaging>
 
     <modules>
-<!--        <module>cloud-modules</module>-->
-<!--        <module>cloud-api</module>-->
-<!--        <module>cloud-common</module>-->
-<!--        <module>cloud-visual</module>-->
         <module>cloud-visual</module>
         <module>cloud-common</module>
         <module>cloud-api</module>
