@@ -24,6 +24,7 @@
         <module>cloud-common-tenant</module>
         <module>cloud-common-mybatis</module>
         <module>cloud-common-dubbo</module>
+        <module>cloud-common-log</module>
     </modules>
 
 </project>

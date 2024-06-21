@@ -42,12 +42,12 @@
                 <version>${revision}</version>
             </dependency>
 
-<!--            &lt;!&ndash; 日志记录 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-log</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <!-- 日志记录 -->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-log</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            &lt;!&ndash; 字典 &ndash;&gt;-->
 <!--            <dependency>-->
