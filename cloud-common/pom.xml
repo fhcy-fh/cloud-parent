@@ -18,6 +18,7 @@
         <module>cloud-common-web</module>
         <module>cloud-common-nacos</module>
         <module>cloud-common.json</module>
+        <module>cloud-common-redis</module>
     </modules>
 
 </project>
