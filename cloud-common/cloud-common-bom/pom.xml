@@ -183,11 +183,11 @@
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 序列化模块 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-json</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>org.dromara</groupId>
+                <artifactId>ruoyi-common-json</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            <dependency>-->
 <!--                <groupId>org.dromara</groupId>-->
