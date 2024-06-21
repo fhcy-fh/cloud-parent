@@ -32,6 +32,7 @@
         <module>cloud-common-idempotent</module>
         <module>cloud-common-security</module>
         <module>cloud-common-translation</module>
+        <module>cloud-common-sensitive</module>
     </modules>
 
 </project>

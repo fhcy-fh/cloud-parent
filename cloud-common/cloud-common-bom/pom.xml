@@ -175,12 +175,12 @@
                 <version>${revision}</version>
             </dependency>
 
-<!--            &lt;!&ndash; 脱敏模块 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-sensitive</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <!-- 脱敏模块 -->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-sensitive</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            &lt;!&ndash; 序列化模块 &ndash;&gt;-->
             <dependency>
