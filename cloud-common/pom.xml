@@ -34,6 +34,8 @@
         <module>cloud-common-translation</module>
         <module>cloud-common-sensitive</module>
         <module>cloud-common-encrypt</module>
+        <module>cloud-common-ratelimiter</module>
+        <module>cloud-common-social</module>
     </modules>
 
 </project>

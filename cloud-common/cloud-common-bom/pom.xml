@@ -114,12 +114,12 @@
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
-<!--            &lt;!&ndash; 限流 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-ratelimiter</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <!-- 限流 -->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-ratelimiter</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
             <dependency>
                 <groupId>com.cloud</groupId>
@@ -208,11 +208,11 @@
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-social</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-social</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
             <dependency>
                 <groupId>com.cloud</groupId>
