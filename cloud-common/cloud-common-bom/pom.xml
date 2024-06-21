@@ -24,49 +24,49 @@
 
 <!--            &lt;!&ndash; 接口模块 &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-doc</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-doc</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 安全模块 &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-security</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-security</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-satoken</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-satoken</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 日志记录 &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-log</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-log</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 字典 &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-dict</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-dict</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; excel &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-excel</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-excel</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 缓存服务 &ndash;&gt;-->
             <dependency>
-                <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-common-redis</artifactId>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-redis</artifactId>
                 <version>${revision}</version>
             </dependency>
 
@@ -79,138 +79,138 @@
 
 <!--            &lt;!&ndash; 数据库服务 &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-mybatis</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-mybatis</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-job</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-job</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-dubbo</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-dubbo</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-seata</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-seata</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-loadbalancer</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-loadbalancer</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-oss</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-oss</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 限流 &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-ratelimiter</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-ratelimiter</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-idempotent</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-idempotent</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-mail</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-mail</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-sms</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-sms</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-logstash</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-logstash</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-elasticsearch</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-elasticsearch</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-sentinel</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-sentinel</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-skylog</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-skylog</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-prometheus</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-prometheus</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-translation</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-translation</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 脱敏模块 &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-sensitive</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-sensitive</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 序列化模块 &ndash;&gt;-->
             <dependency>
-                <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-common-json</artifactId>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-json</artifactId>
                 <version>${revision}</version>
             </dependency>
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-encrypt</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-encrypt</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            &lt;!&ndash; 租户模块 &ndash;&gt;-->
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-tenant</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-tenant</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-websocket</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-websocket</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
 <!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-common-social</artifactId>-->
+<!--                <groupId>com.cloud</groupId>-->
+<!--                <artifactId>cloud-common-social</artifactId>-->
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
