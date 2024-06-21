@@ -56,12 +56,12 @@
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
-<!--            &lt;!&ndash; excel &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-excel</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <!-- excel -->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-excel</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            &lt;!&ndash; 缓存服务 &ndash;&gt;-->
             <dependency>
