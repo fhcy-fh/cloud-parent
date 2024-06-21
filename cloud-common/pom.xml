@@ -28,6 +28,7 @@
         <module>cloud-common-sentinel</module>
         <module>cloud-common-dict</module>
         <module>cloud-common-doc</module>
+        <module>cloud-common-seata</module>
     </modules>
 
 </project>
