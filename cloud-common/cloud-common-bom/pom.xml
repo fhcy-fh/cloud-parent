@@ -29,12 +29,12 @@
                 <version>${revision}</version>
             </dependency>
 
-<!--            &lt;!&ndash; 安全模块 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-security</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <!-- 安全模块 -->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-security</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
             <dependency>
                 <groupId>com.cloud</groupId>
