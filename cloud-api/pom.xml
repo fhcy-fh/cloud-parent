@@ -11,8 +11,10 @@
 
     <artifactId>cloud-api</artifactId>
     <packaging>pom</packaging>
+
     <modules>
         <module>cloud-api-system</module>
+        <module>cloud-api-bom</module>
     </modules>
 
 </project>
