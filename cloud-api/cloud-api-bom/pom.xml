@@ -22,12 +22,12 @@
                 <version>${revision}</version>
             </dependency>
 
-<!--            &lt;!&ndash; 资源服务接口 &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>org.dromara</groupId>-->
-<!--                <artifactId>ruoyi-api-resource</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <!-- 资源服务接口 -->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-api-resource</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            &lt;!&ndash; workflow接口 &ndash;&gt;-->
 <!--            <dependency>-->

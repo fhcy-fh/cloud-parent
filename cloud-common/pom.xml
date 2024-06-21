@@ -31,6 +31,7 @@
         <module>cloud-common-seata</module>
         <module>cloud-common-idempotent</module>
         <module>cloud-common-security</module>
+        <module>cloud-common-translation</module>
     </modules>
 
 </project>

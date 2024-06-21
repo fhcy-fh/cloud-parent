@@ -169,11 +169,11 @@
 <!--                <version>${revision}</version>-->
 <!--            </dependency>-->
 
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-translation</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-translation</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
 <!--            &lt;!&ndash; 脱敏模块 &ndash;&gt;-->
 <!--            <dependency>-->
