@@ -1,4 +1,4 @@
-package com.cloud.common.dict.impl;
+package com.cloud.common.dict.service.impl;
 
 import com.github.benmanes.caffeine.cache.Cache;
 import org.apache.dubbo.config.annotation.DubboReference;
