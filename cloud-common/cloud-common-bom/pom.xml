@@ -189,11 +189,11 @@
                 <version>${revision}</version>
             </dependency>
 
-<!--            <dependency>-->
-<!--                <groupId>com.cloud</groupId>-->
-<!--                <artifactId>cloud-common-encrypt</artifactId>-->
-<!--                <version>${revision}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.cloud</groupId>
+                <artifactId>cloud-common-encrypt</artifactId>
+                <version>${revision}</version>
+            </dependency>
 
             <!-- 租户模块 -->
             <dependency>

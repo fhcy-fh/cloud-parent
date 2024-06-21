@@ -33,6 +33,7 @@
         <module>cloud-common-security</module>
         <module>cloud-common-translation</module>
         <module>cloud-common-sensitive</module>
+        <module>cloud-common-encrypt</module>
     </modules>
 
 </project>
