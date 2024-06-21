@@ -26,6 +26,7 @@
         <module>cloud-common-dubbo</module>
         <module>cloud-common-log</module>
         <module>cloud-common-sentinel</module>
+        <module>cloud-common-dict</module>
     </modules>
 
 </project>
