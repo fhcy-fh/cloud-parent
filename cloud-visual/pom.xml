@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <modules>
-        <module>monitor</module>
+        <module>cloud-monitor</module>
         <module>cloud-nacos</module>
         <module>snailjob-server</module>
     </modules>
