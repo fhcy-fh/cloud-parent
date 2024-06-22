@@ -15,7 +15,7 @@
         <module>cloud-resource</module>
     </modules>
 
-    <artifactId>ruoyi-modules</artifactId>
+    <artifactId>cloud-modules</artifactId>
     <packaging>pom</packaging>
 
     <description>

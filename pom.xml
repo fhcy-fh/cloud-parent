@@ -400,7 +400,7 @@
         <module>cloud-auth</module>
         <module>cloud-gateway</module>
         <module>cloud-visual</module>
-        <module>ruoyi-modules</module>
+        <module>cloud-modules</module>
         <module>cloud-api</module>
         <module>ruoyi-common</module>
     </modules>
