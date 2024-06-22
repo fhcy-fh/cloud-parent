@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <packaging>jar</packaging>
-    <artifactId>snailjob-server</artifactId>
+    <artifactId>cloud-snailjob-server</artifactId>
 
     <dependencies>
         <dependency>
