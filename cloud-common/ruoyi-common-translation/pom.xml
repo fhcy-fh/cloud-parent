@@ -34,7 +34,7 @@
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-api-resource</artifactId>
+            <artifactId>cloud-api-resource</artifactId>
         </dependency>
 
     </dependencies>

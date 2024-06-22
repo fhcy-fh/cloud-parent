@@ -43,7 +43,7 @@
         <!-- RuoYi Api System -->
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-api-system</artifactId>
+            <artifactId>cloud-api-system</artifactId>
         </dependency>
 
         <!-- RuoYi Common Redis-->

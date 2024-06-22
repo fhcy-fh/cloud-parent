@@ -159,7 +159,7 @@
             <!-- api 的依赖配置-->
             <dependency>
                 <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-api-bom</artifactId>
+                <artifactId>cloud-api-bom</artifactId>
                 <version>${revision}</version>
                 <type>pom</type>
                 <scope>import</scope>
@@ -397,10 +397,10 @@
     </dependencyManagement>
 
     <modules>
-        <module>cloud-visual</module>
-        <module>cloud-modules</module>
         <module>cloud-api</module>
         <module>cloud-common</module>
+        <module>cloud-modules</module>
+        <module>cloud-visual</module>
     </modules>
     <packaging>pom</packaging>
 

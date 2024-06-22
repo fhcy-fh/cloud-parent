@@ -9,9 +9,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <modules>
-        <module>ruoyi-api-bom</module>
-        <module>ruoyi-api-system</module>
-        <module>ruoyi-api-resource</module>
+        <module>cloud-api-bom</module>
+        <module>cloud-api-system</module>
+        <module>cloud-api-resource</module>
     </modules>
 
     <artifactId>cloud-api</artifactId>

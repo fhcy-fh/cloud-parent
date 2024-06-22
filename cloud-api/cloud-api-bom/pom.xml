@@ -6,12 +6,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.dromara</groupId>
-    <artifactId>ruoyi-api-bom</artifactId>
+    <artifactId>cloud-api-bom</artifactId>
     <packaging>pom</packaging>
     <version>${revision}</version>
 
     <description>
-        ruoyi-api-bom api依赖项
+        cloud-api-bom api依赖项
     </description>
 
     <properties>
@@ -23,14 +23,14 @@
             <!-- 系统接口 -->
             <dependency>
                 <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-api-system</artifactId>
+                <artifactId>cloud-api-system</artifactId>
                 <version>${revision}</version>
             </dependency>
 
             <!-- 资源服务接口 -->
             <dependency>
                 <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-api-resource</artifactId>
+                <artifactId>cloud-api-resource</artifactId>
                 <version>${revision}</version>
             </dependency>
 

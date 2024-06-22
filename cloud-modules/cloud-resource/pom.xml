@@ -111,12 +111,12 @@
         <!-- RuoYi Api System -->
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-api-system</artifactId>
+            <artifactId>cloud-api-system</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-api-resource</artifactId>
+            <artifactId>cloud-api-resource</artifactId>
         </dependency>
 
     </dependencies>
