@@ -9,9 +9,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author ruoyi
  */
 @SpringBootApplication
-public class Monitor {
+public class MonitorApplication {
     public static void main(String[] args) {
-        SpringApplication.run(Monitor.class, args);
+        SpringApplication.run(MonitorApplication.class, args);
         System.out.println("(♥◠‿◠)ﾉﾞ  监控中心启动成功   ლ(´ڡ`ლ)ﾞ  ");
     }
 }
