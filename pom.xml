@@ -400,7 +400,7 @@
         <module>cloud-visual</module>
         <module>cloud-modules</module>
         <module>cloud-api</module>
-        <module>ruoyi-common</module>
+        <module>cloud-common</module>
     </modules>
     <packaging>pom</packaging>
 
