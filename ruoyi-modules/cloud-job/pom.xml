@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ruoyi-job</artifactId>
+    <artifactId>cloud-job</artifactId>
 
     <description>
         ruoyi-job 任务调度模块
