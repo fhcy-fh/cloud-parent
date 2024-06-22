@@ -4,30 +4,29 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>org.dromara</groupId>
-        <artifactId>cloud-api</artifactId>
+        <artifactId>cloud-common</artifactId>
         <version>${revision}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-api-system</artifactId>
+    <artifactId>cloud-common-sms</artifactId>
 
     <description>
-        cloud-api-system系统接口模块
+        cloud-common-sms 短信模块
     </description>
 
-    <dependencies>
+	<dependencies>
 
-        <!-- RuoYi Common Core-->
         <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-core</artifactId>
+            <groupId>org.dromara.sms4j</groupId>
+            <artifactId>sms4j-spring-boot-starter</artifactId>
         </dependency>
 
+        <!-- RuoYi Common Redis-->
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-excel</artifactId>
+            <artifactId>cloud-common-redis</artifactId>
         </dependency>
 
     </dependencies>
-
 </project>

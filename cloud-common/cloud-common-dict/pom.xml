@@ -4,30 +4,35 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>org.dromara</groupId>
-        <artifactId>cloud-api</artifactId>
+        <artifactId>cloud-common</artifactId>
         <version>${revision}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-api-system</artifactId>
+    <artifactId>cloud-common-dict</artifactId>
 
     <description>
-        cloud-api-system系统接口模块
+        cloud-common-dict 字典
     </description>
 
     <dependencies>
 
-        <!-- RuoYi Common Core-->
+        <!-- RuoYi Common Security -->
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-core</artifactId>
+            <artifactId>cloud-common-redis</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-excel</artifactId>
+            <artifactId>cloud-api-system</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.dubbo</groupId>
+            <artifactId>dubbo-spring-boot-starter</artifactId>
+            <scope>provided</scope>
         </dependency>
 
     </dependencies>
-
 </project>

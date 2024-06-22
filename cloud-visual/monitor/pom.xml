@@ -25,12 +25,12 @@
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-nacos</artifactId>
+            <artifactId>cloud-common-nacos</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-web</artifactId>
+            <artifactId>cloud-common-web</artifactId>
         </dependency>
 
         <!-- Spring Security -->

@@ -20,7 +20,7 @@
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-nacos</artifactId>
+            <artifactId>cloud-common-nacos</artifactId>
         </dependency>
 
         <dependency>

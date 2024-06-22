@@ -34,7 +34,7 @@
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-nacos</artifactId>
+            <artifactId>cloud-common-nacos</artifactId>
         </dependency>
 
         <!-- SpringCloud Alibaba Sentinel Gateway -->
@@ -69,7 +69,7 @@
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-sentinel</artifactId>
+            <artifactId>cloud-common-sentinel</artifactId>
             <exclusions>
                 <exclusion>
                     <groupId>com.alibaba.csp</groupId>
@@ -80,22 +80,22 @@
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-satoken</artifactId>
+            <artifactId>cloud-common-satoken</artifactId>
         </dependency>
 
         <!-- RuoYi Common Redis-->
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-redis</artifactId>
+            <artifactId>cloud-common-redis</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-tenant</artifactId>
+            <artifactId>cloud-common-tenant</artifactId>
             <exclusions>
                 <exclusion>
                     <groupId>org.dromara</groupId>
-                    <artifactId>ruoyi-common-mybatis</artifactId>
+                    <artifactId>cloud-common-mybatis</artifactId>
                 </exclusion>
             </exclusions>
         </dependency>
@@ -103,25 +103,25 @@
         <!-- 自定义负载均衡(多团队开发使用) -->
 <!--        <dependency>-->
 <!--            <groupId>org.dromara</groupId>-->
-<!--            <artifactId>ruoyi-common-loadbalancer</artifactId>-->
+<!--            <artifactId>cloud-common-loadbalancer</artifactId>-->
 <!--        </dependency>-->
 
         <!-- ELK 日志收集 -->
 <!--        <dependency>-->
 <!--            <groupId>org.dromara</groupId>-->
-<!--            <artifactId>ruoyi-common-logstash</artifactId>-->
+<!--            <artifactId>cloud-common-logstash</artifactId>-->
 <!--        </dependency>-->
 
         <!-- skywalking 日志收集 -->
 <!--        <dependency>-->
 <!--            <groupId>org.dromara</groupId>-->
-<!--            <artifactId>ruoyi-common-skylog</artifactId>-->
+<!--            <artifactId>cloud-common-skylog</artifactId>-->
 <!--        </dependency>-->
 
         <!-- prometheus 监控 -->
 <!--        <dependency>-->
 <!--            <groupId>org.dromara</groupId>-->
-<!--            <artifactId>ruoyi-common-prometheus</artifactId>-->
+<!--            <artifactId>cloud-common-prometheus</artifactId>-->
 <!--        </dependency>-->
 
     </dependencies>

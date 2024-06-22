@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xmlns="http://maven.apache.org/POM/4.0.0"
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>org.dromara</groupId>
-        <artifactId>cloud-api</artifactId>
+        <artifactId>cloud-common</artifactId>
         <version>${revision}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-api-system</artifactId>
+    <artifactId>cloud-common-security</artifactId>
 
     <description>
-        cloud-api-system系统接口模块
+        cloud-common-security 安全模块
     </description>
 
     <dependencies>
-
-        <!-- RuoYi Common Core-->
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-core</artifactId>
+            <artifactId>cloud-common-satoken</artifactId>
         </dependency>
 
+        <!-- Sa-Token 权限认证, 在线文档：http://sa-token.dev33.cn/ -->
         <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-excel</artifactId>
+            <groupId>cn.dev33</groupId>
+            <artifactId>sa-token-spring-boot3-starter</artifactId>
         </dependency>
 
     </dependencies>

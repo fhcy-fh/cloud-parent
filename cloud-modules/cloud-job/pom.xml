@@ -19,54 +19,54 @@
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-nacos</artifactId>
+            <artifactId>cloud-common-nacos</artifactId>
         </dependency>
 
         <!-- RuoYi Common Log -->
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-log</artifactId>
+            <artifactId>cloud-common-log</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-dict</artifactId>
+            <artifactId>cloud-common-dict</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-web</artifactId>
+            <artifactId>cloud-common-web</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-dubbo</artifactId>
+            <artifactId>cloud-common-dubbo</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-mybatis</artifactId>
+            <artifactId>cloud-common-mybatis</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-job</artifactId>
+            <artifactId>cloud-common-job</artifactId>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-tenant</artifactId>
+            <artifactId>cloud-common-tenant</artifactId>
             <exclusions>
                 <exclusion>
                     <groupId>org.dromara</groupId>
-                    <artifactId>ruoyi-common-mybatis</artifactId>
+                    <artifactId>cloud-common-mybatis</artifactId>
                 </exclusion>
             </exclusions>
         </dependency>
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-security</artifactId>
+            <artifactId>cloud-common-security</artifactId>
         </dependency>
 
         <!-- RuoYi Api System -->

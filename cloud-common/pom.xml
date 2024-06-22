@@ -14,38 +14,38 @@
     <modules>
         <module>cloud-common-bom</module>
         <module>cloud-common-alibaba-bom</module>
-        <module>ruoyi-common-log</module>
-        <module>ruoyi-common-dict</module>
-        <module>ruoyi-common-excel</module>
+        <module>cloud-common-log</module>
+        <module>cloud-common-dict</module>
+        <module>cloud-common-excel</module>
         <module>cloud-common-core</module>
-        <module>ruoyi-common-redis</module>
-        <module>ruoyi-common-doc</module>
-        <module>ruoyi-common-security</module>
-        <module>ruoyi-common-satoken</module>
-        <module>ruoyi-common-web</module>
-        <module>ruoyi-common-mybatis</module>
-        <module>ruoyi-common-job</module>
-        <module>ruoyi-common-dubbo</module>
-        <module>ruoyi-common-seata</module>
-        <module>ruoyi-common-loadbalancer</module>
-        <module>ruoyi-common-oss</module>
-        <module>ruoyi-common-ratelimiter</module>
-        <module>ruoyi-common-idempotent</module>
-        <module>ruoyi-common-mail</module>
-        <module>ruoyi-common-sms</module>
-        <module>ruoyi-common-logstash</module>
-        <module>ruoyi-common-elasticsearch</module>
-        <module>ruoyi-common-sentinel</module>
-        <module>ruoyi-common-skylog</module>
-        <module>ruoyi-common-prometheus</module>
-        <module>ruoyi-common-translation</module>
-        <module>ruoyi-common-sensitive</module>
-        <module>ruoyi-common-json</module>
-        <module>ruoyi-common-encrypt</module>
-        <module>ruoyi-common-tenant</module>
-        <module>ruoyi-common-websocket</module>
-        <module>ruoyi-common-social</module>
-        <module>ruoyi-common-nacos</module>
+        <module>cloud-common-redis</module>
+        <module>cloud-common-doc</module>
+        <module>cloud-common-security</module>
+        <module>cloud-common-satoken</module>
+        <module>cloud-common-web</module>
+        <module>cloud-common-mybatis</module>
+        <module>cloud-common-job</module>
+        <module>cloud-common-dubbo</module>
+        <module>cloud-common-seata</module>
+        <module>cloud-common-loadbalancer</module>
+        <module>cloud-common-oss</module>
+        <module>cloud-common-ratelimiter</module>
+        <module>cloud-common-idempotent</module>
+        <module>cloud-common-mail</module>
+        <module>cloud-common-sms</module>
+        <module>cloud-common-logstash</module>
+        <module>cloud-common-elasticsearch</module>
+        <module>cloud-common-sentinel</module>
+        <module>cloud-common-skylog</module>
+        <module>cloud-common-prometheus</module>
+        <module>cloud-common-translation</module>
+        <module>cloud-common-sensitive</module>
+        <module>cloud-common-json</module>
+        <module>cloud-common-encrypt</module>
+        <module>cloud-common-tenant</module>
+        <module>cloud-common-websocket</module>
+        <module>cloud-common-social</module>
+        <module>cloud-common-nacos</module>
     </modules>
 
     <description>

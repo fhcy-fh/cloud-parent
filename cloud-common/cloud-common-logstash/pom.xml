@@ -4,30 +4,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>org.dromara</groupId>
-        <artifactId>cloud-api</artifactId>
+        <artifactId>cloud-common</artifactId>
         <version>${revision}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-api-system</artifactId>
+    <artifactId>cloud-common-logstash</artifactId>
 
     <description>
-        cloud-api-system系统接口模块
+        cloud-common-logstash logstash日志推送模块
     </description>
 
     <dependencies>
-
-        <!-- RuoYi Common Core-->
         <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-core</artifactId>
+            <groupId>net.logstash.logback</groupId>
+            <artifactId>logstash-logback-encoder</artifactId>
         </dependency>
-
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-excel</artifactId>
-        </dependency>
-
     </dependencies>
-
 </project>

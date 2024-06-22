@@ -4,30 +4,26 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>org.dromara</groupId>
-        <artifactId>cloud-api</artifactId>
+        <artifactId>cloud-common</artifactId>
         <version>${revision}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-api-system</artifactId>
+    <artifactId>cloud-common-skylog</artifactId>
 
     <description>
-        cloud-api-system系统接口模块
+        cloud-common-skylog skywalking日志收集模块
     </description>
 
     <dependencies>
-
-        <!-- RuoYi Common Core-->
+        <!-- skywalking 整合 logback -->
         <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-core</artifactId>
+            <groupId>org.apache.skywalking</groupId>
+            <artifactId>apm-toolkit-logback-1.x</artifactId>
         </dependency>
-
         <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>cloud-common-excel</artifactId>
+            <groupId>org.apache.skywalking</groupId>
+            <artifactId>apm-toolkit-trace</artifactId>
         </dependency>
-
     </dependencies>
-
 </project>
