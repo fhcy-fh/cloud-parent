@@ -22,7 +22,7 @@
             <!-- 核心模块 -->
             <dependency>
                 <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-common-core</artifactId>
+                <artifactId>cloud-common-core</artifactId>
                 <version>${revision}</version>
             </dependency>
 

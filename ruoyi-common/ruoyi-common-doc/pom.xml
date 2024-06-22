@@ -19,7 +19,7 @@
 
         <dependency>
             <groupId>org.dromara</groupId>
-            <artifactId>ruoyi-common-core</artifactId>
+            <artifactId>cloud-common-core</artifactId>
         </dependency>
 
         <dependency>

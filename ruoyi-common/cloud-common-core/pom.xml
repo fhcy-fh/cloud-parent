@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ruoyi-common-core</artifactId>
+    <artifactId>cloud-common-core</artifactId>
 
     <description>
-        ruoyi-common-core 核心模块
+        cloud-common-core 核心模块
     </description>
 
     <dependencies>
