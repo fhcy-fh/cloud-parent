@@ -9,8 +9,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <modules>
-        <module>ruoyi-common-bom</module>
-        <module>ruoyi-common-alibaba-bom</module>
+        <module>cloud-common-bom</module>
+        <module>cloud-common-alibaba-bom</module>
         <module>ruoyi-common-log</module>
         <module>ruoyi-common-dict</module>
         <module>ruoyi-common-excel</module>

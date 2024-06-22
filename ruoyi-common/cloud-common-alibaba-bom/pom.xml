@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.dromara</groupId>
-    <artifactId>ruoyi-common-alibaba-bom</artifactId>
+    <artifactId>cloud-common-alibaba-bom</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
 
     <description>
-        ruoyi-common-alibaba-bom alibaba依赖项
+        cloud-common-alibaba-bom alibaba依赖项
     </description>
 
     <properties>

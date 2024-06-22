@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.dromara</groupId>
-    <artifactId>ruoyi-common-bom</artifactId>
+    <artifactId>cloud-common-bom</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
 
     <description>
-        ruoyi-common-bom common依赖项
+        cloud-common-bom common依赖项
     </description>
 
     <properties>
