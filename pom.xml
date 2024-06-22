@@ -398,7 +398,7 @@
 
     <modules>
         <module>cloud-auth</module>
-        <module>gateway</module>
+        <module>cloud-gateway</module>
         <module>cloud-visual</module>
         <module>ruoyi-modules</module>
         <module>cloud-api</module>
