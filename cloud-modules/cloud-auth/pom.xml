@@ -11,7 +11,7 @@
     <artifactId>cloud-auth</artifactId>
 
     <description>
-        ruoyi-auth 认证授权中心
+        auth 认证授权中心
     </description>
 
     <dependencies>
@@ -31,7 +31,7 @@
             <artifactId>cloud-common-sentinel</artifactId>
         </dependency>
 
-        <!-- RuoYi Common Security-->
+        <!-- Common Security-->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-common-security</artifactId>
@@ -42,7 +42,7 @@
             <artifactId>cloud-common-social</artifactId>
         </dependency>
 
-        <!-- RuoYi Common Log -->
+        <!-- Common Log -->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-common-log</artifactId>

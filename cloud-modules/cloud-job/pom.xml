@@ -12,7 +12,7 @@
     <artifactId>cloud-job</artifactId>
 
     <description>
-        ruoyi-job 任务调度模块
+        job 任务调度模块
     </description>
 
     <dependencies>
@@ -22,7 +22,7 @@
             <artifactId>cloud-common-nacos</artifactId>
         </dependency>
 
-        <!-- RuoYi Common Log -->
+        <!-- Common Log -->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-common-log</artifactId>
@@ -69,7 +69,7 @@
             <artifactId>cloud-common-security</artifactId>
         </dependency>
 
-        <!-- RuoYi Api System -->
+        <!-- Api System -->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-api-system</artifactId>

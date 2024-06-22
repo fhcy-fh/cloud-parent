@@ -3,21 +3,19 @@ FROM openjdk:17.0.2-oraclelinux8
 
 MAINTAINER Lion Li
 
-RUN mkdir -p /ruoyi/auth/logs  \
-    /ruoyi/auth/temp  \
-    /ruoyi/skywalking/agent
+RUN mkdir -p /cloud/auth/logs  \
+    /cloud/auth/temp  \
+    /cloud/skywalking/agent
 
-WORKDIR /ruoyi/auth
+WORKDIR /cloud/auth
 
 ENV SERVER_PORT=9210 LANG=C.UTF-8 LC_ALL=C.UTF-8 JAVA_OPTS=""
 
 EXPOSE ${SERVER_PORT}
 
-ADD ./target/ruoyi-auth.jar ./app.jar
+ADD ./target/cloud-auth.jar ./app.jar
 
 ENTRYPOINT java -Djava.security.egd=file:/dev/./urandom -Dserver.port=${SERVER_PORT} \
-           #-Dskywalking.agent.service_name=ruoyi-auth \
-           #-javaagent:/ruoyi/skywalking/agent/skywalking-agent.jar \
            -XX:+HeapDumpOnOutOfMemoryError -XX:+UseZGC ${JAVA_OPTS} \
            -jar app.jar
 

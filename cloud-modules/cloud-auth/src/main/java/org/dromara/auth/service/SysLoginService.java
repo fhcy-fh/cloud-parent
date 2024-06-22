@@ -51,7 +51,6 @@ import java.util.function.Supplier;
 /**
  * 登录校验方法
  *
- * @author ruoyi
  */
 @RequiredArgsConstructor
 @Service

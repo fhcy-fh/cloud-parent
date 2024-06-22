@@ -8,10 +8,6 @@
     <artifactId>cloud-parent</artifactId>
     <version>${revision}</version>
 
-    <name>RuoYi-Cloud-Plus</name>
-    <url>https://gitee.com/dromara/RuoYi-Cloud-Plus</url>
-    <description>RuoYi-Cloud-Plus微服务系统</description>
-
     <properties>
         <revision>2.2.0-BETA</revision>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

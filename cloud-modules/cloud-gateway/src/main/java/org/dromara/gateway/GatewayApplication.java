@@ -8,7 +8,6 @@ import org.springframework.boot.context.metrics.buffering.BufferingApplicationSt
 /**
  * 网关启动程序
  *
- * @author ruoyi
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 public class GatewayApplication {

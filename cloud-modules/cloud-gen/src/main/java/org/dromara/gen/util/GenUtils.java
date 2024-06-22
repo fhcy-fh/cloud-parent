@@ -14,7 +14,6 @@ import java.util.Arrays;
 /**
  * 代码生成器 工具类
  *
- * @author ruoyi
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class GenUtils {

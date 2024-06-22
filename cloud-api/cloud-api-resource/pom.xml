@@ -17,7 +17,7 @@
 
     <dependencies>
 
-        <!-- RuoYi Common Core-->
+        <!-- Common Core-->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-common-core</artifactId>

@@ -11,7 +11,7 @@
     <artifactId>cloud-gateway</artifactId>
 
     <description>
-        ruoyi-gateway网关模块
+        gateway网关模块
     </description>
 
     <dependencies>
@@ -83,7 +83,7 @@
             <artifactId>cloud-common-satoken</artifactId>
         </dependency>
 
-        <!-- RuoYi Common Redis-->
+        <!-- Common Redis-->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-common-redis</artifactId>

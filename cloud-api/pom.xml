@@ -18,7 +18,7 @@
     <packaging>pom</packaging>
 
     <description>
-        ruoyi-api系统接口
+        api系统接口
     </description>
 
 </project>

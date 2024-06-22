@@ -12,7 +12,7 @@
     <artifactId>cloud-resource</artifactId>
 
     <description>
-        ruoyi-resource资源服务
+        resource资源服务
     </description>
 
     <dependencies>
@@ -108,7 +108,7 @@
             <artifactId>cloud-common-websocket</artifactId>
         </dependency>
 
-        <!-- RuoYi Api System -->
+        <!-- Api System -->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-api-system</artifactId>

@@ -11,7 +11,7 @@
     <artifactId>monitor</artifactId>
 
     <description>
-        ruoyi-monitor监控中心
+        monitor监控中心
     </description>
 
     <dependencies>

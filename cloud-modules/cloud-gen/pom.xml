@@ -12,7 +12,7 @@
     <artifactId>cloud-gen</artifactId>
 
     <description>
-        ruoyi-gen代码生成
+        gen代码生成
     </description>
 
     <dependencies>
@@ -28,7 +28,7 @@
             <artifactId>velocity-engine-core</artifactId>
         </dependency>
 
-        <!-- RuoYi Common Log -->
+        <!-- Common Log -->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-common-log</artifactId>

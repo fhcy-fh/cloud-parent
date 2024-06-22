@@ -17,7 +17,7 @@
 
     <dependencies>
 
-        <!-- RuoYi Common Security -->
+        <!-- Common Security -->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-common-redis</artifactId>

@@ -40,13 +40,13 @@
             <artifactId>hutool-jwt</artifactId>
         </dependency>
 
-        <!-- RuoYi Api System -->
+        <!-- Api System -->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-api-system</artifactId>
         </dependency>
 
-        <!-- RuoYi Common Redis-->
+        <!-- Common Redis-->
         <dependency>
             <groupId>org.dromara</groupId>
             <artifactId>cloud-common-redis</artifactId>

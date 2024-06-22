@@ -9,7 +9,6 @@ import java.io.Serializable;
 /**
  * 路由显示信息
  *
- * @author ruoyi
  */
 
 @Data

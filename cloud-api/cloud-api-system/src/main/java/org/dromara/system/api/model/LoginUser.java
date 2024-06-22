@@ -11,7 +11,6 @@ import java.util.Set;
 /**
  * 用户信息
  *
- * @author ruoyi
  */
 @Data
 @NoArgsConstructor

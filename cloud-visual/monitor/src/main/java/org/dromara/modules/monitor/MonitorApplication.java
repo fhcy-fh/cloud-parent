@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 监控中心
  *
- * @author ruoyi
  */
 @SpringBootApplication
 public class MonitorApplication {

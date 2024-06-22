@@ -14,7 +14,6 @@ import reactor.core.publisher.Mono;
 /**
  * 网关统一异常处理
  *
- * @author ruoyi
  */
 @Slf4j
 @Order(-1)

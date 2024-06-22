@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 文件信息
  *
- * @author ruoyi
  */
 @Data
 public class RemoteSms implements Serializable {

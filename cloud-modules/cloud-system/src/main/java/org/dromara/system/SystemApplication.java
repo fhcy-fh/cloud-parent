@@ -8,7 +8,6 @@ import org.springframework.boot.context.metrics.buffering.BufferingApplicationSt
 /**
  * 系统模块
  *
- * @author ruoyi
  */
 @EnableDubbo
 @SpringBootApplication
