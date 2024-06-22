@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ruoyi-system</artifactId>
+    <artifactId>cloud-system</artifactId>
 
     <description>
         ruoyi-system系统模块
