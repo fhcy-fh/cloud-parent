@@ -14,6 +14,7 @@
         <module>cloud-job</module>
         <module>cloud-resource</module>
         <module>cloud-gateway</module>
+        <module>cloud-auth</module>
     </modules>
 
     <artifactId>cloud-modules</artifactId>

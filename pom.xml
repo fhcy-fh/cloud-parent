@@ -397,7 +397,6 @@
     </dependencyManagement>
 
     <modules>
-        <module>cloud-auth</module>
         <module>cloud-visual</module>
         <module>cloud-modules</module>
         <module>cloud-api</module>
