@@ -23,7 +23,7 @@
         <artifactId>cloud-visual</artifactId>
         <version>${revision}</version>
     </parent>
-    <artifactId>nacos</artifactId>
+    <artifactId>cloud-nacos</artifactId>
     <packaging>jar</packaging>
 
     <properties>

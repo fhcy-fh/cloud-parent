@@ -10,7 +10,7 @@
 
     <modules>
         <module>monitor</module>
-        <module>nacos</module>
+        <module>cloud-nacos</module>
         <module>snailjob-server</module>
     </modules>
 
