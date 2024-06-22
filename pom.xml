@@ -399,7 +399,7 @@
     <modules>
         <module>ruoyi-auth</module>
         <module>gateway</module>
-        <module>tool-visual</module>
+        <module>cloud-visual</module>
         <module>ruoyi-modules</module>
         <module>cloud-api</module>
         <module>ruoyi-common</module>

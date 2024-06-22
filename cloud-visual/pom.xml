@@ -14,11 +14,11 @@
         <module>snailjob-server</module>
     </modules>
 
-    <artifactId>tool-visual</artifactId>
+    <artifactId>cloud-visual</artifactId>
     <packaging>pom</packaging>
 
     <description>
-        tool-visual图形化管理模块
+        cloud-visual图形化管理模块
     </description>
 
     <dependencies>
