@@ -397,7 +397,7 @@
     </dependencyManagement>
 
     <modules>
-        <module>ruoyi-auth</module>
+        <module>cloud-auth</module>
         <module>gateway</module>
         <module>cloud-visual</module>
         <module>ruoyi-modules</module>
