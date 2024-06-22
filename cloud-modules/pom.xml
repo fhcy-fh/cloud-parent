@@ -13,6 +13,7 @@
         <module>cloud-gen</module>
         <module>cloud-job</module>
         <module>cloud-resource</module>
+        <module>cloud-gateway</module>
     </modules>
 
     <artifactId>cloud-modules</artifactId>
