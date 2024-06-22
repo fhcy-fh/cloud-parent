@@ -11,7 +11,7 @@ ENV LANG=C.UTF-8 LC_ALL=C.UTF-8 JAVA_OPTS=""
 
 EXPOSE 9100
 
-ADD ./target/cloud-monitor.jar ./app.jar
+ADD ./target/cloud-nacos.jar ./app.jar
 
 ENTRYPOINT java -Djava.security.egd=file:/dev/./urandom \
            -XX:+HeapDumpOnOutOfMemoryError -XX:+UseZGC ${JAVA_OPTS} \
