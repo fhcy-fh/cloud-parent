@@ -12,7 +12,7 @@
         <module>cloud-system</module>
         <module>ruoyi-gen</module>
         <module>ruoyi-job</module>
-        <module>ruoyi-resource</module>
+        <module>cloud-resource</module>
     </modules>
 
     <artifactId>ruoyi-modules</artifactId>
