@@ -10,7 +10,7 @@
 
     <modules>
         <module>cloud-system</module>
-        <module>ruoyi-gen</module>
+        <module>cloud-gen</module>
         <module>cloud-job</module>
         <module>cloud-resource</module>
     </modules>
